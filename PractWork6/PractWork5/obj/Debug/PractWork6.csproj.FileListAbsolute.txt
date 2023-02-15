@@ -1,0 +1,11 @@
+C:\temp\pcs91\PractWork6\PractWork5\bin\Debug\PractWork5.exe.config
+C:\temp\pcs91\PractWork6\PractWork5\bin\Debug\PractWork5.exe
+C:\temp\pcs91\PractWork6\PractWork5\bin\Debug\PractWork5.pdb
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork6.csproj.AssemblyReference.cache
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork6.csproj.SuggestedBindingRedirects.cache
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork6.Form1.resources
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork5.Properties.Resources.resources
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork6.csproj.GenerateResource.cache
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork6.csproj.CoreCompileInputs.cache
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork5.exe
+C:\temp\pcs91\PractWork6\PractWork5\obj\Debug\PractWork5.pdb
